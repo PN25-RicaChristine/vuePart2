@@ -40,10 +40,17 @@ export default {
 </script>
 
 <style>
+
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
+  
+}
+
+body{
+  background-image: url("http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/cebu-island/best-cebu-attractions/pagePropertiesImage/best-cebu-attractions.jpg");
+  background-size:cover;
 }
 </style>
